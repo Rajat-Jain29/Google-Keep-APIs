@@ -1,0 +1,4 @@
+Apr 22, 2021 10:39:39 AM com.example.API.control.control <init>
+INFO: Connected to Database
+Apr 22, 2021 10:39:39 AM com.example.API.control.control <init>
+INFO: Connected to Database

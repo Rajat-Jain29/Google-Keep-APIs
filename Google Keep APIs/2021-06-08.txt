@@ -1,0 +1,4 @@
+Jun 08, 2021 8:05:21 PM com.example.API.control.control <init>
+INFO: Error message : Unknown database 'note'
+Jun 08, 2021 8:05:21 PM com.example.API.control.control <init>
+INFO: Error message : Unknown database 'note'
